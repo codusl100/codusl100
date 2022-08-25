@@ -1,5 +1,6 @@
+<div align=center><h1>👋 Hi, I’m @codusl100 </h1></div>
+
 <div align="center">
-  <h1> Chae yeon Baek @100_cy </h1>
   <h2> 🕹️ Tech Stacks 🎮 </h2> <br>
   
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
