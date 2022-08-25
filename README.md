@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=flat&logo=Amazon Ec2&logoColor=white">    
     
 </div>
