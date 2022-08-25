@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hello%20I'm%20chaeyeon!&fontSize=60)
 <div align="center">
+  <h1> Chae yeon Baek </h1> 
+  <h2> @100_cy </h2><br>
   <h2> 🕹️ Tech Stacks 🎮 </h2> <br>
   
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=black">
