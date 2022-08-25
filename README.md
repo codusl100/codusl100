@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hello%20I'm%20chaeyeon!&fontSize=60)
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hello%20I'm%20chaeyeon!&fontSize=60)
+
   <h2> 🕹️ Tech Stacks 🎮 </h2> <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
