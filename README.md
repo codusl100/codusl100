@@ -1,33 +1,22 @@
-<div align=center><h1>👋 Hi, I’m @codusl100 </h1></div>
+<h1 align="center">Hi 👋, I'm @codusl100</h1>
+<h3 align="center">A passionate backend developer from Korea</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codusl100&label=Profile%20views&color=0e75b6&style=flat" alt="codusl100" /> </p>
 
-<div align=center>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codusl100" alt="codusl100" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codusl100&show_icons=true&theme=radical) 
+- 👨‍💻 All of my projects are available at [https://github.com/codusl100?tab=repositories](https://github.com/codusl100?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codusl100&layout=compact)](https://github.com/codusl100/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/@100_cy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@100_cy" height="30" width="40" /></a>
+</p>
 
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodusl100&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![followers](https://img.shields.io/github/followers/codusl100?style=social)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codusl100&show_icons=true&locale=en&layout=compact" alt="codusl100" /></p>
 
-<a href="https://instagram.com/100_cy">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="codusl0422@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/N-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-  <br>
-    
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=flat&logo=Amazon Ec2&logoColor=white">    
-    
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codusl100&show_icons=true&locale=en" alt="codusl100" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codusl100&" alt="codusl100" /></p>
