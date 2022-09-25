@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @codusl100</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/codusl100?tab=repositories](https://github.com/codusl100?tab=repositories)
+- 👨‍💻 @codusl100's Resume: https://bedecked-distance-9a3.notion.site/Resume-5bf2cf23ca1844759b42f7a6f1a5c1c6
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
