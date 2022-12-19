@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @codusl100</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-- 👨‍💻 @codusl100's Resume: https://bedecked-distance-9a3.notion.site/Resume-5bf2cf23ca1844759b42f7a6f1a5c1c6
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/100_cy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@100_cy" height="30" width="40" /></a>
