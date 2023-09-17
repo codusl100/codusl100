@@ -28,8 +28,7 @@
 ### 🐶 About Me
 <p>
 <a href="mailto:codusl0422@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://bedecked-distance-9a3.notion.site/a7895a081460467d8a706b73032abfd1" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#03C75A"/></a>
+<a href="https://bedecked-distance-9a3.notion.site/6f3842cf85bf4b2a9cdb3916419e0ad5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#03C75A"/></a>
 <a href="https://seolki-log.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Tistory&logoColor=#03C75A"/></a>
-<a href="https://www.instagram.com/100_cy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFC4D4?style=flat-square&logo=Instagram&logoColor=#03C75A"/></a>
 </p>
 
