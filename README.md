@@ -1,7 +1,6 @@
-### Hi Welcome, I’m **CHAEYEON BAEK** ✋🏻
+### Hi Welcome! ✋🏻
 <p>
-  I'm studying to be a Backend Developer 💻<br/>
-  I'm majoring in Industrial Systems Engineering & Convergence Software Institute ✨<br/> 
+  I'm studying to be a Backend Developer 💻✨<br/>
 </p>
 
 
