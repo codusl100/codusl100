@@ -21,7 +21,7 @@
 ### 🐶 About Me
 <p>
 <a href="mailto:codusl0422@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://bedecked-distance-9a3.notion.site/22b819d7d6a142f999344ef38ad33104?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#03C75A"/></a>
+<a href="https://codus100.notion.site/1badcd4dbb7c80499a10f5cf60d29f8b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#03C75A"/></a>
 <a href="https://seolki-log.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Tistory&logoColor=#03C75A"/></a>
 </p>
 
