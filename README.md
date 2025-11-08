@@ -1,6 +1,6 @@
 ### Hi Welcome! ✋🏻
 <p>
-  I'm studying to be a Backend Developer 💻✨<br/>
+  Backend & Data Engineer 💻✨<br/>
 </p>
 
 
@@ -27,7 +27,7 @@
 ### 🐶 About Me
 <p>
 <a href="mailto:codusl0422@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://codus100.notion.site/1badcd4dbb7c80499a10f5cf60d29f8b?pvs=4" target="_blank"><img src="https://codus100.notion.site/Chaeyeon-Back-Resume-29fdcd4dbb7c803f85faf811751cc7e3?source=copy_link"/></a>
+<a href="https://codus100.notion.site/1badcd4dbb7c80499a10f5cf60d29f8b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#03C75A"/></a>
 <a href="https://seolki-log.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Tistory&logoColor=#03C75A"/></a>
 </p>
 
